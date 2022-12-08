@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Supermoika",
+    "address": "Almaty, Zhambyla, 170b",
+    "phone": "+7 77-777-77-77"
+  },
+  {
+    "id": 2,
+    "name": "Hot Supermoika",
+    "address": "Almaty, Satpaeva, 124a",
+    "phone": "+7 77-777-77-77"
+  },
+  {
+    "id": 3,
+    "name": "HotHotSupermoika",
+    "address": "Almaty, Satpaeva, 124a",
+    "phone": "+7 77-777-77-77"
+  },
+  {
+    "id": 4,
+    "name": "Supermoika4",
+    "address": "Almaty, Satpaeva, 124a",
+    "phone": "+7 77-777-77-77"
+  }
+]
